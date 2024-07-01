@@ -43,4 +43,4 @@ Dive into the world of web development. As a passionate JavaScript developer, I'
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=codewithdmitrii&show_icons=true&theme=gruvbox)
+![CodeWithDmitrii's GitHub stats](https://github-readme-stats.vercel.app/api?username=codewithdmitrii&show_icons=true&theme=gruvbox)
