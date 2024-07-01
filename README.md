@@ -18,7 +18,7 @@ Dive into the world of web development. As a passionate JavaScript developer, I'
 
 ---
 
-### 🧰 Languages and Tools
+## 🧰 Languages and Tools
 
 <img alt="docker" align="left" width="38px" style="padding-right:10px; display: inline-block;" src="./imgs/docker.svg"/>
 <img alt="git" align="left" width="38px" style="padding-right:10px; display: inline-block;" src="./imgs/git.svg"/>
@@ -38,9 +38,9 @@ Dive into the world of web development. As a passionate JavaScript developer, I'
 <img alt="unocss" align="left" width="38px" style="padding-right:10px; display: inline-block;" src="./imgs/unocss.svg"/>
 
 <br />
+<br />
+  
 
-#
-
-### 📊 Stats
+## 📊 Stats
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=codewithdmitrii&show_icons=true&theme=gruvbox)
