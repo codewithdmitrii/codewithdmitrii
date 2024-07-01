@@ -21,22 +21,22 @@ Dive into the world of web development. As a passionate JavaScript developer, I'
 ### 🧰 Languages and Tools
 
 <div>
-  <img alt="docker" align="left" width="38px" style="padding-right:10px; display: inline-block;" src="./imgs/docker.svg"/>
-  <img alt="git" align="left" width="38px" style="padding-right:10px; display: inline-block;" src="./imgs/git.svg"/>
-  <img alt="css" align="left" width="38px" style="padding-right:10px; display: inline-block;" src="./imgs/html.svg"/>
-  <img alt="css" align="left" width="38px" style="padding-right:10px; display: inline-block;" src="./imgs/css.svg"/>
-  <img alt="js" align="left" width="38px" style="padding-right:10px; display: inline-block;" src="./imgs/js.svg"/>
-  <img alt="typescript" align="left" width="38px" style="padding-right:10px; display: inline-block;" src="./imgs/typescript.svg"/>
-  <img alt="nest" align="left" width="38px" style="padding-right:10px; display: inline-block;" src="./imgs/nest.svg"/>
-  <img alt="mongo" align="left" width="38px" style="padding-right:10px; display: inline-block;" src="./imgs/mongo.svg"/>
-  <img alt="graphql" align="left" width="38px" style="padding-right:10px; display: inline-block;" src="./imgs/graphql.svg"/>
-  <img alt="svelte" align="left" width="38px" style="padding-right:10px; display: inline-block;" src="./imgs/svelte.svg"/>
-  <img alt="vue" align="left" width="38px" style="padding-right:10px; display: inline-block;" src="./imgs/vue.svg"/>
-  <img alt="nuxt" align="left" width="38px" style="padding-right:10px; display: inline-block;" src="./imgs/nuxt.svg"/>
-  <img alt="react" align="left" width="38px" style="padding-right:10px; display: inline-block;" src="./imgs/react.svg"/>
-  <img alt="next" align="left" width="38px" style="padding-right:10px; display: inline-block;" src="./imgs/next.svg"/>
-  <img alt="tailwindcss" align="left" width="38px" style="padding-right:10px; display: inline-block;" src="./imgs/tailwindcss.svg"/>
-  <img alt="unocss" width="38px" style="padding-right:10px; display: inline-block;" src="./imgs/unocss.svg"/>
+  <img alt="docker" align="left" width="38px" style="padding:10px;" src="./imgs/docker.svg"/>
+  <img alt="git" align="left" width="38px" style="padding:10px;" src="./imgs/git.svg"/>
+  <img alt="css" align="left" width="38px" style="padding:10px;" src="./imgs/html.svg"/>
+  <img alt="css" align="left" width="38px" style="padding:10px;" src="./imgs/css.svg"/>
+  <img alt="js" align="left" width="38px" style="padding:10px;" src="./imgs/js.svg"/>
+  <img alt="typescript" align="left" width="38px" style="padding:10px;" src="./imgs/typescript.svg"/>
+  <img alt="nest" align="left" width="38px" style="padding:10px;" src="./imgs/nest.svg"/>
+  <img alt="mongo" align="left" width="38px" style="padding:10px;" src="./imgs/mongo.svg"/>
+  <img alt="graphql" align="left" width="38px" style="padding:10px;" src="./imgs/graphql.svg"/>
+  <img alt="svelte" align="left" width="38px" style="padding:10px;" src="./imgs/svelte.svg"/>
+  <img alt="vue" align="left" width="38px" style="padding:10px;" src="./imgs/vue.svg"/>
+  <img alt="nuxt" align="left" width="38px" style="padding:10px;" src="./imgs/nuxt.svg"/>
+  <img alt="react" align="left" width="38px" style="padding:10px;" src="./imgs/react.svg"/>
+  <img alt="next" align="left" width="38px" style="padding:10px;" src="./imgs/next.svg"/>
+  <img alt="tailwindcss" align="left" width="38px" style="padding:10px;" src="./imgs/tailwindcss.svg"/>
+  <img alt="unocss" width="38px" style="padding:10px;" src="./imgs/unocss.svg"/>
 </div>
 
 #
