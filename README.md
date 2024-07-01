@@ -20,22 +20,22 @@ Dive into the world of web development. As a passionate JavaScript developer, I'
 
 ### 🧰 Languages and Tools
 
-<img alt="docker" width="38px" style="padding-right:10px" src="./imgs/docker.svg"/>
-<img alt="git" width="38px" style="padding-right:10px" src="./imgs/git.svg"/>
-<img alt="css" width="38px" style="padding-right:10px" src="./imgs/html.svg"/>
-<img alt="css" width="38px" style="padding-right:10px" src="./imgs/css.svg"/>
-<img alt="js" width="38px" style="padding-right:10px" src="./imgs/js.svg"/>
-<img alt="typescript" width="38px" style="padding-right:10px" src="./imgs/typescript.svg"/>
-<img alt="nest" width="38px" style="padding-right:10px" src="./imgs/nest.svg"/>
-<img alt="mongo" width="38px" style="padding-right:10px" src="./imgs/mongo.svg"/>
-<img alt="graphql" width="38px" style="padding-right:10px" src="./imgs/graphql.svg"/>
-<img alt="svelte" width="38px" style="padding-right:10px" src="./imgs/svelte.svg"/>
-<img alt="vue" width="38px" style="padding-right:10px" src="./imgs/vue.svg"/>
-<img alt="nuxt" width="38px" style="padding-right:10px" src="./imgs/nuxt.svg"/>
-<img alt="react" width="38px" style="padding-right:10px" src="./imgs/react.svg"/>
-<img alt="next" width="38px" style="padding-right:10px" src="./imgs/next.svg"/>
-<img alt="tailwindcss" width="38px" style="padding-right:10px" src="./imgs/tailwindcss.svg"/>
-<img alt="unocss" width="38px" style="padding-right:10px" src="./imgs/unocss.svg"/>
+<img alt="docker" width="38px" style="padding-right:10px; display: inline-block;" src="./imgs/docker.svg"/>
+<img alt="git" width="38px" style="padding-right:10px; display: inline-block;" src="./imgs/git.svg"/>
+<img alt="css" width="38px" style="padding-right:10px; display: inline-block;" src="./imgs/html.svg"/>
+<img alt="css" width="38px" style="padding-right:10px; display: inline-block;" src="./imgs/css.svg"/>
+<img alt="js" width="38px" style="padding-right:10px; display: inline-block;" src="./imgs/js.svg"/>
+<img alt="typescript" width="38px" style="padding-right:10px; display: inline-block;" src="./imgs/typescript.svg"/>
+<img alt="nest" width="38px" style="padding-right:10px; display: inline-block;" src="./imgs/nest.svg"/>
+<img alt="mongo" width="38px" style="padding-right:10px; display: inline-block;" src="./imgs/mongo.svg"/>
+<img alt="graphql" width="38px" style="padding-right:10px; display: inline-block;" src="./imgs/graphql.svg"/>
+<img alt="svelte" width="38px" style="padding-right:10px; display: inline-block;" src="./imgs/svelte.svg"/>
+<img alt="vue" width="38px" style="padding-right:10px; display: inline-block;" src="./imgs/vue.svg"/>
+<img alt="nuxt" width="38px" style="padding-right:10px; display: inline-block;" src="./imgs/nuxt.svg"/>
+<img alt="react" width="38px" style="padding-right:10px; display: inline-block;" src="./imgs/react.svg"/>
+<img alt="next" width="38px" style="padding-right:10px; display: inline-block;" src="./imgs/next.svg"/>
+<img alt="tailwindcss" width="38px" style="padding-right:10px; display: inline-block;" src="./imgs/tailwindcss.svg"/>
+<img alt="unocss" width="38px" style="padding-right:10px; display: inline-block;" src="./imgs/unocss.svg"/>
 
 <br />
 
