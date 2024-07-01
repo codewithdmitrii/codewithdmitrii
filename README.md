@@ -39,8 +39,6 @@ Dive into the world of web development. As a passionate JavaScript developer, I'
   <img alt="unocss" width="38px" style="padding-right:10px; display: inline-block;" src="./imgs/unocss.svg"/>
 </div>
 
-
-
 #
 
 ### 📊 Stats
